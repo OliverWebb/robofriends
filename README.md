@@ -1,6 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### This app was created from "The Complete Junior to Senior Web Developer(2020) : Zero to Mastery". I have implemented Redux as well as Progressive Web Application.
+### This app was created from "The Complete Junior to Senior Web Developer(2020) : Zero to Mastery".
+I have implemented Redux as well as Progressive Web Application.
 
 
 <hr />
