@@ -19,4 +19,4 @@ Install the packages:
 Start the app:
 ### 'npm start'
 
-### Simple visit the link provided and run it offline.
+### Simply visit the link provided and run it offline.
